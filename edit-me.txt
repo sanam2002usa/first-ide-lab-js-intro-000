@@ -1,1 +1,2 @@
 Hello, Everyone!
+Great, Learning Javascript
